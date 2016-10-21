@@ -10,7 +10,7 @@
 #import "XMPPIncomingFileTransfer.h"
 #import "XMPPConstants.h"
 #import "XMPPLogging.h"
-#import "idn-int.h"
+#import <XMPPFramework/idn-int.h>
 #import "NSNumber+XMPP.h"
 #import "NSData+XMPP.h"
 

@@ -1,5 +1,5 @@
 #import "XMPPStringPrep.h"
-#import "stringprep.h"
+#import <XMPPFramework/stringprep.h>
 
 
 @implementation XMPPStringPrep
